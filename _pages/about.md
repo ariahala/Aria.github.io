@@ -8,18 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
-
-A data-driven personal website
-======
-Getting started
-======
-Site-wide configuration
-------
-Create content & metadata
-------
-**Markdown generator**
-How to edit your site's GitHub repository
-------
-For more info
-------
+I'm a fourth year PhD student at the Courant Institute of mathematical sciences.
